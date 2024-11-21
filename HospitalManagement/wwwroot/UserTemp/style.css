@@ -4170,3 +4170,8 @@ body{
 /*=========================
 	End Footer CSS
 ===========================*/
+
+.flatpickr-confirm {
+	cursor: pointer !important;
+	pointer-events: auto !important;
+}
